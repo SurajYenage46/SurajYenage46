@@ -2,8 +2,8 @@
 - 📈 I'm a Competative Programmer
 - 💻 I'm a 3rd year Computer Science undergrad at Lovely Professional University
 - 🔭 I’m currently busy in developing Android apps.
-- 🌱 I’m currently learning 
-- 📫 How to reach me: 
+- 🌱 I’m currently learning IOT
+- 📫 How to reach me: surajyenage123@gmail.com
 - 😄 Pronouns: Arceus
 - ⚡ Learning new things everyday to improve my level.
 
