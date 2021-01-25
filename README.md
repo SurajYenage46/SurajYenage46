@@ -15,8 +15,8 @@
 <h2 align='center'>Competative Profile</h2>
 
 <h2 align='center'>Language and Tools</h2>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+
 <h1>Github Stats</h1>
 
 
