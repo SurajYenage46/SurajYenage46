@@ -3,7 +3,7 @@
  <h3 align="center">I'm Competitive Programmer,Web Developer and Android developer from 'INDIA'</h3>
  
 - 📈 I'm a Competative Programmer
-- 💻 I'm a 3rd year Computer Science undergrad at Lovely Professional University
+- 💻 I'm a 3rd year Computer Science undergraduate at Lovely Professional University
 - 🔭 I’m currently busy in developing Android apps.
 - 🌱 I’m currently learning IOT
 - 📫 How to reach me: surajyenage123@gmail.com
@@ -11,7 +11,9 @@
 - ⚡ Learning new things everyday to improve my level.
 
 <h2 align='center'>Social Profile</h2>
-
+<a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70">
 <h2 align='center'>Competative Profile</h2>
 
 <h2 align='center'>Language and Tools</h2>
