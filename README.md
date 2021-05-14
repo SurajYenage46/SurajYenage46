@@ -25,15 +25,5 @@
   <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
 </p>
 
-# 🛠 Languages and Tools
-![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
-![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DS-CPP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/System-MS_Office-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-VsCode-yellowgreen)
-![](https://img.shields.io/badge/Tools-CodeBlocks-yellowgreen)
-
-
 #                                                            Profile Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{11Asish11}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{SurajYenage46}/count.svg)
