@@ -1,8 +1,8 @@
  Hi there, I'm Suraj Yenage 👋
  
- <h3>I'm Competitive Programmer,Web Developer and Android developer from 'INDIA'</h3>
+ <h3>I'm  Programmer,Web Developer and Android developer from 'INDIA'</h3>
  
-- 📈 I'm a Competative Programmer
+- 📈 I'm a Programmer
 - 💻 I'm a 3rd year Computer Science undergraduate at Lovely Professional University
 - 🔭 I’m currently busy in developing Android apps.
 - 🌱 I’m currently learning RPA & IOT
