@@ -3,7 +3,7 @@
  <h3>I'm  Programmer,Web Developer and Android developer from 'INDIA'</h3>
  
 - 📈 I'm a Programmer
-- 💻 I'm a 3rd year Computer Science undergraduate at Lovely Professional University
+- 💻 I'm a 4th year Computer Science undergraduate at Lovely Professional University
 - 🔭 I’m currently busy in developing Android apps.
 - 🌱 I’m currently learning RPA & IOT
 - 📫 How to reach me: surajyenage123@gmail.com
