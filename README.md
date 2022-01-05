@@ -1,6 +1,6 @@
  Hi there, I'm Suraj Yenage 👋
  
- <h3>I'm  Programmer,Web Developer and Android developer from 'INDIA'</h3>
+ <h3>I'm  Programmer and Android developer from 'INDIA'</h3>
  
 - 📈 I'm a Programmer
 - 💻 I'm a 4th year Computer Science undergraduate at Lovely Professional University
