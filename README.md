@@ -7,7 +7,7 @@
 - 🔭 I’m currently busy in developing Android apps.
 - 🌱 I’m currently learning RPA & IOT
 - 📫 How to reach me: surajyenage123@gmail.com
-- 😄 Pronouns: Arceus
+- 😄 Pronouns: Suraj
 - ⚡ Learning new things everyday to improve my level.
 
 - 📫 Connect with me on [LinkedIn][3].
