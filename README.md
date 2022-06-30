@@ -29,7 +29,6 @@
 
 [1]: https://twitter.com/SurajYenage
 [3]: https://www.linkedin.com/in/surajyenage46/
-[5]: https://www.codechef.com/users/ashishx11
 [6]: https://www.codechef.com/users/arceus_46
 [7]: https://www.hackerrank.com/__arceus__?hr_r=1
 [8]: https://www.stopstalk.com/user/profile/arceus
