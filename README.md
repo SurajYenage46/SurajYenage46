@@ -12,7 +12,7 @@
 
 - 📫 Connect with me on [LinkedIn][3].
 - :gem: You can checkout my coding profiles here
-- :beginner: [Codechef][5]    &ensp; &ensp; &ensp;  :beginner: [Codeforces][6] 
+- :beginner: [Codechef][5]    &ensp; &ensp; &ensp;  :beginner: [CodeChef][6] 
 - :beginner: [Hackerrank][7]  &ensp; &ensp;  :beginner: [Stopstalk][8] 
 - :beginner: [GFG][9]   &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;&ensp; 
 
