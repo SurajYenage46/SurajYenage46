@@ -3,9 +3,9 @@
  <h3>I'm  Programmer and Android developer from 'INDIA'</h3>
  
 - 📈 I'm a Programmer
-- 💻 I'm a 4th year Computer Science undergraduate at Lovely Professional University
-- 🔭 I’m currently busy in developing Android apps.
-- 🌱 I’m currently learning RPA & IOT
+- 💻 I'm currently working in MNC as Developer
+- 🔭 I’m currently busy in developing new featurs in Automotive
+- 🌱 I’m currently learning Automotive Cyber Security 
 - 📫 How to reach me: surajyenage123@gmail.com
 - 😄 Pronouns: Suraj
 - ⚡ Learning new things everyday to improve my level.
