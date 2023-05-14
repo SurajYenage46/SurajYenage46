@@ -1,9 +1,8 @@
  Hi there, I'm Suraj Yenage 👋
  
- <h3>I'm  Programmer and Android developer from 'INDIA'</h3>
+ <h3>I'm  Programmer </h3>
  
-- 📈 I'm a Programmer
-- 💻 I'm currently working in MNC as Developer
+- 💻 I'm currently working as Developer
 - 🔭 I’m currently busy in developing new featurs in Automotive
 - 🌱 I’m currently learning Automotive Cyber Security 
 - 📫 How to reach me: surajyenage123@gmail.com
