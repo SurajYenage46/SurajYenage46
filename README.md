@@ -2,7 +2,7 @@
  
  <h3>I'm  Programmer </h3>
  
-- 💻 I'm currently working as Software Developer
+- 💻 I'm currently working as Research Engineer
 - 🌱 I’m currently learning Automotive Cyber Security 
 - 📫 How to reach me: surajyenage123@gmail.com
 - 😄 Pronouns: Suraj
