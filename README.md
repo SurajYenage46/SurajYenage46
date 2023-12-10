@@ -19,5 +19,4 @@
 [7]: https://www.hackerrank.com/__arceus__?hr_r=1
 [8]: https://www.stopstalk.com/user/profile/arceus
 [9]: https://auth.geeksforgeeks.org/user/yenage11807774/practice/
-#                                                            Profile Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{SurajYenage46}/count.svg)
+
